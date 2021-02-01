@@ -1,0 +1,39 @@
+.cabeceraPagina {
+    background: linear-gradient(to bottom right, blue , #9198e5 30%);
+}
+
+.no-padding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.bg-orange{
+   background-color: #FF6600;
+}
+
+.sobreMi{
+	background: linear-gradient(to bottom right, #99cc99 , #99cc00 30%);
+}
+
+.sobreMi p{
+	font-size: 20px;
+	font-family: 
+}
+
+.imagenPerfil{
+	border: 1px solid;
+  	padding: 10px;
+  	box-shadow: 5px 10px 8px #888888;
+}
+
+.galeria{
+	background: blue;
+}
+
+.footer{
+	background-color: rgba(0, 80, 250, .7);
+}
+
+.footer a{
+	color: white;
+}
